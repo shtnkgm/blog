@@ -121,4 +121,7 @@ dist
 !.vscode/extensions.json
 *.code-workspace
 
+# Firebase
+.firebase/
+
 

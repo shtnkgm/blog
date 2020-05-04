@@ -9,5 +9,8 @@ gibo dump Node VisualStudioCode >> .gitignore
 
 npm run build
 
-npm i -D firebase-tools
+npm i -g firebase-tools
+firebase login
+firebase init
+firebase deploy
 ```
