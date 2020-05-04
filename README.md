@@ -13,6 +13,8 @@ npm i -g firebase-tools
 firebase login
 firebase init
 firebase deploy
+
+npm i -S vue vue-class-component
 ```
 
 # URL
