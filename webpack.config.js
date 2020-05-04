@@ -19,7 +19,7 @@ module.exports = {
         }, ],
     },
     resolve: {
-        extensions: ['.ts'],
+        extensions: ['.ts', ".js"],
         // Webpackで利用するときの設定
         alias: {
             vue: "vue/dist/vue.js"

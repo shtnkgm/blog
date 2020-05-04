@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "three": "^0.116.1",
     "ts-loader": "^7.0.2",
     "typescript": "^3.8.3",
     "vue": "^2.6.11",

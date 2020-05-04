@@ -15,6 +15,7 @@ firebase init
 firebase deploy
 
 npm i -S vue vue-class-component
+npm i -S three
 ```
 
 # URL
